@@ -13,4 +13,4 @@
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 #git clone https://github.com/frainzy1477/luci-app-clash package/luci-app-clash
-git clone https://github.com/13528943945/openwrt-dvb package/openwrt-dvb
+#git clone https://github.com/13528943945/openwrt-dvb package/openwrt-dvb
